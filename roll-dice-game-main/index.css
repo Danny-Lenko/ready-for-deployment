@@ -174,3 +174,10 @@ button:focus {
         transform: rotate(8deg);
     }
 }
+.scoreboard {
+    display: block;
+}
+
+.playerEl h2 {
+    margin: 1rem auto;
+}
